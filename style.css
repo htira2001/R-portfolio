@@ -7,8 +7,10 @@ body {
   margin-top:20px; 
   margin-bottom:20px; 
   font-family: 'Oswald', sans-serif;
-  color: black; 
+  color:blue; 
+  
 }
+
 
 #navbarlink {
   font-family: 'Oswald', sans-serif; 
@@ -16,6 +18,7 @@ body {
   margin-top: 20px; 
   margin-bottom: 20px;
   margin-right: 20px; 
+  
 }
 
 h1 {
@@ -24,6 +27,7 @@ h1 {
 
 h2 {
   font-family: 'Oswald', sans-serif;
+  text-align: center;
 }
 
 footer {

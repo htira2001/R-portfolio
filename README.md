@@ -1,5 +1,4 @@
-# R-portfolio
-## Responsive Portfolio
+# Responsive Portfolio
 
 * portfolio re-created with CSS `@media` queries for responsiveness
 * Bootstrap utilized
